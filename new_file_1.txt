@@ -1,1 +1,2 @@
 new feature 1 line
+new feature 3 line
